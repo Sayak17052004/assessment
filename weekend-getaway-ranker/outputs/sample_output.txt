@@ -1,0 +1,30 @@
+Enter source city: Kolkata
+
+Top Weekend Places in Kolkata
+------------------------------------------------------------
+   Zone       State    City                     Name  Google review rating  Number of google review in lakhs Best Time to visit  final_score
+Eastern West Bengal Kolkata            Howrah Bridge                   4.6                              1.20            Anytime     0.900000
+Eastern West Bengal Kolkata Dakshineswar Kali Temple                   4.7                              0.82            Morning     0.861818
+Eastern West Bengal Kolkata               Belur Math                   4.7                              0.47            Morning     0.734545
+Eastern West Bengal Kolkata        Victoria Memorial                   4.6                              0.73            Morning     0.729091
+Eastern West Bengal Kolkata     Science City Kolkata                   4.4                              0.88                All     0.583636
+
+Enter source city: DELHI
+
+Top Weekend Places in Delhi
+------------------------------------------------------------
+    Zone State  City              Name  Google review rating  Number of google review in lakhs Best Time to visit  final_score
+Northern Delhi Delhi        India Gate                   4.6                              2.60            Evening     1.000000
+Northern Delhi Delhi          Red Fort                   4.5                              1.50          Afternoon     0.705397
+Northern Delhi Delhi       Qutub Minar                   4.5                              1.37          Afternoon     0.684762
+Northern Delhi Delhi Akshardham Temple                   4.6                              0.40          Afternoon     0.650794
+Northern Delhi Delhi    Sunder Nursery                   4.6                              0.16          Afternoon     0.612698
+
+Top Weekend Places in Mumbai
+------------------------------------------------------------
+   Zone      State   City                                           Name  Google review rating  Number of google review in lakhs Best Time to visit  final_score
+Western Maharastra Mumbai                               Gateway of India                   4.6                              3.60                All     0.760000
+Western Maharastra Mumbai                           Siddhivinayak Temple                   4.8                              1.05                All     0.712676
+Western Maharastra Mumbai                               Mahalaxmi Temple                   4.7                              0.33                All     0.511549
+Western Maharastra Mumbai                                   Marine Drive                   4.5                              1.50            Evening     0.403380
+Western Maharastra Mumbai Chhatrapati Shivaji Maharaj Vastu Sangrahalaya                   4.6                              0.34                All     0.392676
